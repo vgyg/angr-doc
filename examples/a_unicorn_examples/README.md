@@ -65,3 +65,16 @@ mu.hook_add(UC_HOOK_CODE, hook_code)
 2、指令的地址
 3、指令的大小
 4、用户数据（我们可以在hook_add()的可选参数中传递这个值）
+
+
+###参考文档
+http://eternal.red/2018/unicorn-engine-tutorial/#task-2
+
+https://www.pythonf.cn/read/140782
+https://github.com/unicorn-engine/unicorn/blob/master/samples/sample_x86.c
+
+https://bbs.pediy.com/thread-264498.htm
+https://www.cnblogs.com/titodata/p/14218557.html
+https://blog.csdn.net/song_lee/article/details/104699854
+
+https://www.anquanke.com/post/id/95199
